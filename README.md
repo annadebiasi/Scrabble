@@ -3,3 +3,5 @@ Project I made as a teaching assistant in collaboration with Dr. Enbody for CSE 
 
 
 Generates all possible valid words to be made with a rack and an optional sequence of characters by cross referencing a given dictionary. 
+
+Inspired to make this project while playing the iOS game, Words With Friends.
